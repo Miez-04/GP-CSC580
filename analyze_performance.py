@@ -33,6 +33,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from pathlib import Path
 
+delete = "nanti"
 RESULTS_CSV = "results.csv"
 OUT_DIR = Path("performance_report")
 

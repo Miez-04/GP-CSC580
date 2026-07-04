@@ -42,7 +42,7 @@ SEQ_EXE = "sequential_analytics.exe"
 MPI_EXE = "mpi_analytics.exe"
 HOSTFILE = "hostfile.txt"
 RESULTS_CSV = "results.csv"
-
+delete = "nanti"
 BINS = 20
 WINDOW = 100
 

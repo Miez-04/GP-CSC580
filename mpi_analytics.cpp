@@ -20,7 +20,7 @@
 #include <iomanip>
 #include <fstream>
 #include <functional>
-#include "data_gen.hpp"
+#include "include/data_gen.hpp"
 
 // ----------------------------------------------------------------------------
 // Small struct returned by every task: total wall time for the task AND the

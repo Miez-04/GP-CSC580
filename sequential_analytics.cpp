@@ -9,7 +9,7 @@
 #include <cstdint>
 #include <iomanip>
 #include <fstream>
-#include "data_gen.hpp"
+#include "include/data_gen.hpp"
 
 using Clock = std::chrono::high_resolution_clock;
 
